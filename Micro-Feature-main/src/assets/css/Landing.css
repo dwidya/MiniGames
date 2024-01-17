@@ -1,0 +1,37 @@
+.container {
+    width: 100%;
+    height: 500px;
+    margin: auto;
+    display: flex;
+    justify-content: space-evenly;
+    border: 3px solid #0000ff;
+    border-radius: 8px;
+}
+
+.heroContainer {
+    border: 1px solid darkgray;
+    border-radius: 8px;
+    margin: 10px;
+    margin-top: 70px;
+    width: 300px;
+    height: 150px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 20px;
+}
+
+.countdownContainer {
+    display: flex;
+    flex-direction: column;
+    width: 500px;
+    margin: auto;
+}
+
+.salaryContainer {
+    display: flex;
+    flex-direction: row;
+    width: 500px;
+    margin: auto;
+}

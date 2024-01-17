@@ -1,0 +1,11 @@
+.heroList {
+    margin-top: 30px;
+    border: 1px solid black;
+  }
+  
+  .heroContainer {
+    border: 1px solid lightgrey;
+    border-radius: 8px;
+    margin: 10px;
+    width: 800px;
+  }
